@@ -9,28 +9,24 @@
     "lint": "next lint"
   },
   "dependencies": {
-  "@sanity/client": "^7.8.2",
-    "@sanity/image-url": "^1.0.2",
+    "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
-    "groq": "^3.52.1",
+    "lucide-react": "^0.539.0",
     "next": "15.4.6",
-  "next-sanity": "^9.12.3",
     "react": "19.1.0",
     "react-dom": "19.1.0",
-    "tailwind-merge": "^2.5.2"
+    "tailwind-merge": "^3.3.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
-  "@sanity/vision": "^3.99.0",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "15.4.6",
-  "sanity": "^3.99.0",
     "tailwindcss": "^4",
-    "turbo": "^2.2.3",
+    "tw-animate-css": "^1.3.6",
     "typescript": "^5"
   }
 }
