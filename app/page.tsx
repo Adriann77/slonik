@@ -1,3 +1,11 @@
+import Section1 from '@/components/sections/Section1';
+
 export default function Home() {
-  return <p className='text-5xl text-green'>hello</p>;
+  return (
+    <main>
+      <Section1 />
+      <Section1 />
+      <Section1 />
+    </main>
+  );
 }
